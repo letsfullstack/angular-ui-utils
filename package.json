@@ -4,5 +4,9 @@
   "main": "./jq.js",
   "dependencies": {
     "angular": ">= 1.0.2"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "git://github.com/letsfullstack/angular-ui-utils.git"
 }
