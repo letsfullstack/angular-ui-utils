@@ -1,5 +1,6 @@
 {
-  "name": "angular-ui-jq",
+  "name": "@letsfullstack/angular-ui-utils",
+  "description": "Angular UI Utils for JQuery Wrapper",
   "version": "0.2.3",
   "main": "./jq.js",
   "dependencies": {
